@@ -1,12 +1,13 @@
 - 👋 Hi, I’m @KuroDarck
-tanbien  conocido como Gato negro
+also known as Black Cat
 - 👀 I’m interested in ...
-La programacion, los leguanjes y componentes de informatica,  Leer libros.
-
+The programming, interface design, I love C++ and Python although I want to master C++ before moving on to Python and other languages.
 🌱 I’m currently learning ...
-Estudio una Licenciatura en sistema y programacion. 🖥⌨🖱
+I am studying a Bachelor's degree in systems and programming. 🖥⌨🖱
 - 💞️ I’m looking to collaborate on ...
-colaborar en lo que sea que me probea de conocimiento y abilidades para mejorar mi logica de programacion y  de los lenguajes que se utilicen, practicamente quiero conocimiento
+In the development of projects ( if only as an observer) involving C++ to improve my knowledge of this language in depth perfecting my logic and development of a clean and understandable code. 
 - 📫 How to reach me ...
-kitkuroblack@gmail.com
-Twitter @ Leyfon123
+Mail "kitkuroblack@gmail.com" and "blackjiackherrera@gmail.com".
+Twitter @Leyfon123
+Facebook Herrera Ricardo
+Instagram hetsurera
