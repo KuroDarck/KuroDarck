@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @KuroDarck
-also known as Black Cat
+- 👋 Hi, I’m Ricardo Herrera M
+also known as @KuroDarck
 - 👀 I’m interested in ...
 The programming, interface design, I love C++ and Python although I want to master C++ before moving on to Python and other languages.
 🌱 I’m currently learning ...
