@@ -35,17 +35,13 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Sass-282C34?logo=Sass&logoColor=F5517F" alt="Sass logo" title="Sass" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
+<img src="https://img.shields.io/badge/C++-282C34?logo=c%2B%2B&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
+<img src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Code-C++-informational?logo=C++&logoColor=1572B6" alt="C++ logo" title="C++" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Code-C-informational?logo=C&logoColor=1572B6" alt="C logo" title="C" height="25" />
 &nbsp;
 <br>
 <h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
