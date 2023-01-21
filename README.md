@@ -1,6 +1,6 @@
 <h1 align="center"><img src="./src/RHM.gif" width="900px">Hi there, I'm RICARDO - KuroBlack </h1>
 
-<table align="right">
+<table align="right" width="500px">
 <tr>
 <td>
 
