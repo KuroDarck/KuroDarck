@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm RICARDO - KuroBlack <img src="./src/RHM.gif" width="400px"></h1>
+<h1 align="center"><img src="./src/RHM.gif" width="900px">Hi there, I'm RICARDO - KuroBlack </h1>
 
 <table align="right">
 <tr>
