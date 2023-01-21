@@ -52,7 +52,7 @@
 <img src="https://img.shields.io/badge/Windows-282C34?logo=Windows&logoColor=0078d4" alt="Windows logo" title="Windows" height="25" />
 &nbsp;
 <br>
-<h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
+<h3 align="left"><img src="./src/github.gif" width="30px" height="30px"> GitHub Stats</h3>
 
 <div>
   <a href="https://github.com/KuroDarck">
