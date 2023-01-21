@@ -43,9 +43,9 @@
 &nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/docker-282C34?logo=Docker&logoColor=007ACC" alt="Docker logo" title="Docker" height="25" />
+<img src="https://img.shields.io/badge/Code-C++-informational?logo=C++&logoColor=1572B6" alt="C++ logo" title="C++" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Code-C-informational?logo=firebase&logoColor=FFCB2B" alt="firebase logo" title="firebase" height="25" />
+<img src="https://img.shields.io/badge/Code-C-informational?logo=C&logoColor=1572B6" alt="C logo" title="C" height="25" />
 &nbsp;
 <br>
 <h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
