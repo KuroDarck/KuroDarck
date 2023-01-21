@@ -35,17 +35,21 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Sass-282C34?logo=Sass&logoColor=F5517F" alt="Sass logo" title="Sass" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/C++-282C34?logo=c%2B%2B&logoColor=61DAFB" alt="C++ logo" title="C++" height="25" />
+<img src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor=777BB3" alt="PHP logo" title="PHP" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=F29111" alt="MySQL logo" title="MySQL" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/C++-282C34?logo=c%2B%2B&logoColor=5E97D0" alt="C++ logo" title="C++" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/C-282C34?logo=C&logoColor=61DAFB" alt="C logo" title="C" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=61DAFB" alt="Java logo" title="Java" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor=764ABC" alt="PHP logo" title="PHP" height="25" />
+<img src="https://img.shields.io/badge/Java-282C34?logo=Java&logoColor=F14C4D" alt="Java logo" title="Java" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Windows-282C34?logo=Windows&logoColor=0078d4" alt="Windows logo" title="Windows" height="25" />
 &nbsp;
 <br>
 <h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
