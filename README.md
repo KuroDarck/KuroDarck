@@ -35,9 +35,13 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Sass-282C34?logo=Sass&logoColor=F5517F" alt="Sass logo" title="Sass" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/C++-282C34?logo=c%2B%2B&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
+<img src="https://img.shields.io/badge/C++-282C34?logo=c%2B%2B&logoColor=61DAFB" alt="C++ logo" title="C++" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
+<img src="https://img.shields.io/badge/C-282C34?logo=C&logoColor=61DAFB" alt="C logo" title="C" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=61DAFB" alt="Java logo" title="Java" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor=764ABC" alt="PHP logo" title="PHP" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
 &nbsp;
