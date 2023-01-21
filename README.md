@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ricardo - KuroBlack <img src="./src/RHM.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm RICARDO - KuroBlack <img src="./src/RHM.gif" width="30px"></h1>
 
 <table align="right">
 <tr>
@@ -61,3 +61,10 @@
 ### 🏆 GitHub Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mctechnology17&no-frame=true&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+  
+  
+[twitter]:https://twitter.com/Leyfon123
+[youtube]:https://www.youtube.com/channel/UCRbp8rCB5sNhxgyBtHuFhrw
+[instagram]:https://www.instagram.com/hetsurera/
+[facebook]: https://www.facebook.com/blackjiackherrera/
+[LinkedIn]:https://www.reddit.com/user/mctechnology17](https://www.linkedin.com/in/ricardo-herrera-mu%C3%B1oz-a685191b0/
