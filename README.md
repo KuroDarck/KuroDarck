@@ -5,14 +5,14 @@
 ### 🤝Socials
 
 <p align="left">
-<div margin:0 4px;>
- <a href="https://www.linkedin.com/in/ricardo-herrera-mu%C3%B1oz-a685191b0/"><img align="left" src="./src/linkedin-teameasil.gif" alt="RHM | Linkedin" width="30px"/></a>
- <a href="https://twitter.com/Leyfon123"><img align="left" src="./src/twitter.gif" alt="RHM | Twitter" width="30px"/></a>
- <a href="https://www.facebook.com/blackjiackherrera/"><img align="left" src="./src/facebook.gif" alt="RHM | Facebook" width="30px"/></a>
- <a href="https://www.instagram.com/hetsurera/"><img align="left" src="./src/instagram.gif" alt="RHM | Instagram" width="30px"/></a>
- <a href="https://t.me/BlackKuro"><img align="left" src="./src/telegram.gif" alt="RHM | Telegram" width="30px"/></a>
-  <a href="https://www.youtube.com/channel/UCRbp8rCB5sNhxgyBtHuFhrw"><img align="left" src="./src/youtube-logo.gif" alt="RHM | YouTube" width="30px"/></a>
-</div>
+
+ <a href="https://www.linkedin.com/in/ricardo-herrera-mu%C3%B1oz-a685191b0/"><img align="left" src="./src/linkedin-teameasil.gif" alt="RHM | Linkedin" width="30px" margin="5%"/></a>
+ <a href="https://twitter.com/Leyfon123"><img align="left" src="./src/twitter.gif" alt="RHM | Twitter" width="30px" margin="5%"/></a>
+ <a href="https://www.facebook.com/blackjiackherrera/"><img align="left" src="./src/facebook.gif" alt="RHM | Facebook" width="30px" margin="5%"/></a>
+ <a href="https://www.instagram.com/hetsurera/"><img align="left" src="./src/instagram.gif" alt="RHM | Instagram" width="30px" margin="5%"/></a>
+ <a href="https://t.me/BlackKuro"><img align="left" src="./src/telegram.gif" alt="RHM | Telegram" width="30px" margin="5%"/></a>
+  <a href="https://www.youtube.com/channel/UCRbp8rCB5sNhxgyBtHuFhrw"><img align="left" src="./src/youtube-logo.gif" alt="RHM | YouTube" width="30px" margin="5%"/></a>
+
 <br>
 
 <details>
