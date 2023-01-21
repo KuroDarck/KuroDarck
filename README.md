@@ -1,18 +1,17 @@
 <h1 align="center"><img src="https://nombresanimados.net/gifs-animados/kuroblack-gif-0543.gif" width="900px">Hi there, I'm RICARDO - KuroBlack </h1>
 
-<table align="right">
-<tr>
-<td>
+<p>  
 
-[<img align="left" alt="Kurø Bląçķ | YouTube" width="35px" src="./src/youtube-logo.gif" />][youtube]
-[<img align="left" alt="@Leyfon123 | Twitter" width="35px" src="./src/twitter.gif" />][twitter]
-[<img align="left" alt="@hetsurera | Instagram" width="35px" src="./src/instagram.gif" />][instagram]
-[<img align="left" alt="hetsurera | Facebook" width="35px" src="./src/facebook.gif" />][facebook]
-[<img align="left" alt="Rcardo Herrera M | LinkedIn" width="35px" src="./src/linkedin-teameasil.gif" />][LinkedIn]
+### 🤝Socials
 
-</td>
-</tr>
-</table>
+<p align="left">
+ <a href="https://www.linkedin.com/in/ricardo-herrera-mu%C3%B1oz-a685191b0/"><img align="left" src="./src/linkedin-teameasil.gif" alt="RHM | Linkedin" width="24px"/></a>
+ <a href="https://twitter.com/Leyfon123"><img align="left" src="./src/twitter.gif" alt="RHM | Twitter" width="24px"/></a>
+ <a href="https://www.facebook.com/blackjiackherrera/"><img align="left" src="./src/facebook.gif" alt="RHM | Facebook" width="24px"/></a>
+ <a href="https://www.instagram.com/hetsurera/"><img align="left" src="./src/instagranm.gif" alt="RHM | Instagram" width="24px"/></a>
+ <a href="https://t.me/BlackKuro"><img align="left" src="./src/telegram.gif" alt="RHM | Telegram" width="24px"/></a>
+  <a href="https://www.youtube.com/channel/UCRbp8rCB5sNhxgyBtHuFhrw"><img align="left" src="./src/telegram.gif" alt="RHM | YouTube" width="24px"/></a>
+
 
 <details>
   <summary>♥  About me ♥</summary>
@@ -63,8 +62,3 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=KuroDarck&no-frame=true&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
   
   
-[twitter]:https://twitter.com/Leyfon123
-[youtube]:https://www.youtube.com/channel/UCRbp8rCB5sNhxgyBtHuFhrw
-[instagram]:https://www.instagram.com/hetsurera/
-[facebook]: https://www.facebook.com/blackjiackherrera/
-[LinkedIn]:https://www.reddit.com/user/mctechnology17](https://www.linkedin.com/in/ricardo-herrera-mu%C3%B1oz-a685191b0/
