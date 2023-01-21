@@ -27,7 +27,7 @@
 
 
 <!-- Lenguajes-->
-<h3 align="center"><img src="./src/0101.GIF" width="25px" height="25px"> Languages and Tools</h3>
+<h3 align="center"><img src="./src/Sublimetext.gif" width="25px" height="25px"> Languages and Tools <img src="./src/Visualstudiocode.gif" width="25px" height="25px"></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
 &nbsp;
