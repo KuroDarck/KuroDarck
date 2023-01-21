@@ -1,6 +1,6 @@
-<h1 align="center"><img src="./src/RHM.gif" width="900px">Hi there, I'm RICARDO - KuroBlack </h1>
+<h1 align="center"><img src="./src/https://nombresanimados.net/gifs-animados/kuroblack-gif-0543.gif" width="900px">Hi there, I'm RICARDO - KuroBlack </h1>
 
-<table align="right" width="500px">
+<table align="right">
 <tr>
 <td>
 
