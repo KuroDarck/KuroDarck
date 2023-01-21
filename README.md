@@ -21,7 +21,7 @@
 
 ### 🔬 Web Developer Jr. and I am currently studying a Bachelor of Science in System and Programming 💻!!
 - 🤓  I’m currently learning everything
-- 👾  I am very curious and that is why you start studying programming
+- 👾  I'm very curious and that's why I started studying programming
 - 🗒  I am currently very obsected with learning Web Programing
 </details>
 
