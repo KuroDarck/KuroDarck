@@ -12,6 +12,7 @@
  <a href="https://t.me/BlackKuro"><img align="left" src="./src/telegram.gif" alt="RHM | Telegram" width="24px"/></a>
   <a href="https://www.youtube.com/channel/UCRbp8rCB5sNhxgyBtHuFhrw"><img align="left" src="./src/youtube-logo.gif" alt="RHM | YouTube" width="24px"/></a>
 
+<br>
 
 <details>
   <summary>♥  About me ♥</summary>
