@@ -1,14 +1,14 @@
-<h1 align="center">Hi there, I'm RICARDO - KuroBlack <img src="./src/RHM.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm RICARDO - KuroBlack <img src="./src/RHM.gif" width="400px"></h1>
 
 <table align="right">
 <tr>
 <td>
 
-[<img align="left" alt="Kurø Bląçķ | YouTube" width="22px" src="./src/youtube-logo.gif" />][youtube]
-[<img align="left" alt="@Leyfon123 | Twitter" width="22px" src="./src/twitter.gif" />][twitter]
-[<img align="left" alt="@hetsurera | Instagram" width="22px" src="./src/instagram.gif" />][instagram]
-[<img align="left" alt="hetsurera | Facebook" width="22px" src="./src/facebook.gif" />][facebook]
-[<img align="left" alt="Rcardo Herrera M | LinkedIn" width="22px" src="./src/linkedin-teameasil.gif" />][LinkedIn]
+[<img align="left" alt="Kurø Bląçķ | YouTube" width="35px" src="./src/youtube-logo.gif" />][youtube]
+[<img align="left" alt="@Leyfon123 | Twitter" width="35px" src="./src/twitter.gif" />][twitter]
+[<img align="left" alt="@hetsurera | Instagram" width="35px" src="./src/instagram.gif" />][instagram]
+[<img align="left" alt="hetsurera | Facebook" width="35px" src="./src/facebook.gif" />][facebook]
+[<img align="left" alt="Rcardo Herrera M | LinkedIn" width="35px" src="./src/linkedin-teameasil.gif" />][LinkedIn]
 
 </td>
 </tr>
