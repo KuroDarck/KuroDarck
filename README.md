@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://nombresanimados.net/gifs-animados/kuroblack-gif-0543.gif" width="900px">Hi there, I'm RICARDO - KuroBlack </h1>
+<h1 align="center"><img src="./src/title.png" width="1000px" height="400px">Hi there, I'm RICARDO - KuroBlack </h1>
 
 <p>  
 
