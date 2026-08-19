@@ -13,6 +13,7 @@
  <a href="https://www.linkedin.com/in/ricardo-herrera-mu%C3%B1oz-a685191b0/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=cba6f7" /></a>
  <a href="https://t.me/BlackKuro"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=cba6f7" /></a>
  <a href="https://twitter.com/Leyfon123"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=cba6f7" /></a>
+ <a href="https://www.instagram.com/richard_x_y"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=cba6f7" /></a>
 </p>
 
 </div>
