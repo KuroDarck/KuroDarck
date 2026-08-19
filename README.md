@@ -87,7 +87,6 @@ public class Ricardo {
 <p align="center">
 <img src="https://img.shields.io/github/followers/KuroDarck?label=FOLLOWERS&style=for-the-badge&color=cba6f7&labelColor=000000" />
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/KuroDarck&label=PUBLIC%20REPOS&query=public_repos&style=for-the-badge&color=cba6f7&labelColor=000000" />
-<img src="https://api.visitorbadge.io/api/count?path=https%3A%2F%2Fgithub.com%2FKuroDarck&style=for-the-badge&label=PROFILE+VIEWS&labelColor=000000&color=cba6f7" />
 </p>
 
 <div align="center">
