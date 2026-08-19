@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:0d0d0d,100:1a1a1a&height=220&section=header&text=RICARDO%20%C2%B7%20KUROBLACK&fontSize=42&fontColor=cba6f7&animation=fadeIn&fontAlignY=35&desc=Junior%20Backend%20Developer%20%7C%20Java%20%2B%20Spring%20Boot&descAlignY=55&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=180&section=header&text=RICARDO%20%C2%B7%20KUROBLACK&fontSize=45&fontColor=58a6ff&animation=twinkling&fontAlignY=40&desc=Junior%20Backend%20Developer%20%7C%20Java%20%2B%20Spring%20Boot&descAlignY=65&descSize=18)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=CBA6F7&background=00000000&center=true&vCenter=true&width=650&lines=Everything+in+black%2C+even+the+code;Junior+Backend+Developer+%7C+Java+%26+Spring+Boot;Learning+something+new+every+day;Focused+on+MySQL+%2F+Oracle+%2F+APIs;Open+to+trainee+%2F+junior+opportunities" alt="Typing SVG" />
 
