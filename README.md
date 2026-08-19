@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:0d0d0d,100:1a1a1a&height=220&section=header&text=RICARDO%20%C2%B7%20KUROBLACK&fontSize=42&fontColor=cba6f7&animation=fadeIn&fontAlignY=35&desc=Junior%20Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=55&descSize=16&descColor=ffffff)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=CBA6F7&background=00000000&center=true&vCenter=true&width=650&lines=Todo+en+negro%2C+incluso+el+c%C3%B3digo;Junior+Backend+Developer+%7C+Java+%26+Spring+Boot;Aprendiendo+algo+nuevo+cada+d%C3%ADa;Enfocado+en+MySQL+%2F+Oracle+%2F+APIs;Open+to+trainee+%2F+junior+opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=CBA6F7&background=00000000&center=true&vCenter=true&width=650&lines=Everything+in+black%2C+even+the+code;Junior+Backend+Developer+%7C+Java+%26+Spring+Boot;Learning+something+new+every+day;Focused+on+MySQL+%2F+Oracle+%2F+APIs;Open+to+trainee+%2F+junior+opportunities" alt="Typing SVG" />
 
 <br>
 
@@ -19,7 +19,7 @@
 
 ---
 
-### 👤 Sobre mí
+### 👤 About me
 
 ```java
 public class Ricardo {
@@ -30,17 +30,17 @@ public class Ricardo {
 }
 ```
 
-- 🔭 Actualmente enfocado en dominar **Java + Spring Boot** y **bases de datos empresariales** (MySQL / Oracle)
-- 🎓 Estudiando Ingeniería en Sistemas y Programación
-- 💡 Antes de saltar a Spring, construyo proyectos con Java puro (JDBC) para asegurar que los fundamentos estén sólidos
-- 🖥️ También trabajo con JavaFX y Java Web para aplicaciones de escritorio y web
-- 🌐 En frontend tengo base en HTML5, CSS3 y Bootstrap/Tailwind — pero mi enfoque principal es backend
-- 🎯 Meta: convertirme en un desarrollador backend Java sólido, no un "full stack genérico"
-- 🖤 Fuera del código: todo en negro, sin excepciones
+- 🔭 Currently focused on mastering **Java + Spring Boot** and **enterprise databases** (MySQL / Oracle)
+- 🎓 Systems Technician graduate
+- 💡 Before jumping into Spring, I build projects with plain Java (JDBC) to make sure the fundamentals are solid before relying on frameworks
+- 🖥️ Also working with JavaFX and Java Web for desktop and web applications
+- 🌐 On the frontend I have a base in HTML5, CSS3 and Bootstrap/Tailwind — but my main focus is backend
+- 🎯 Goal: become a solid Java backend developer, not a "generic full stack"
+- 🖤 Off the keyboard: everything black, no exceptions
 
 ---
 
-### 🛠️ Stack Principal (Backend)
+### 🛠️ Main Stack (Backend)
 
 <p align="center">
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=cba6f7" />
@@ -54,7 +54,7 @@ public class Ricardo {
 <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=cba6f7" />
 </p>
 
-### 🎨 Frontend (habilidades de apoyo)
+### 🎨 Frontend (supporting skills)
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=cba6f7" />
@@ -64,7 +64,7 @@ public class Ricardo {
 <img src="https://img.shields.io/badge/Tailwind%20CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=cba6f7" />
 </p>
 
-### 🧰 Herramientas
+### 🧰 Tools
 
 <p align="center">
 <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=cba6f7" />
@@ -74,10 +74,10 @@ public class Ricardo {
 
 ---
 
-### 📌 Proyectos Destacados
+### 📌 Featured Projects
 
-- **Pharmacy Management System** — Java + JDBC + MySQL. Gestión de inventario, ventas y reportes. _(en progreso)_ · [ver repo](https://github.com/KuroDarck)
-- **[Próximo proyecto Spring Boot]** — API REST con Spring Boot + MySQL, documentada con Swagger. _(próximamente)_
+- **Pharmacy Management System** — Java + JDBC + MySQL. Inventory, sales, and reporting management. _(in progress)_ · [view repo](https://github.com/KuroDarck)
+- **[Upcoming Spring Boot project]** — REST API with Spring Boot + MySQL, documented with Swagger. _(coming soon)_
 
 ---
 
