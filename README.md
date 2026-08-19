@@ -1,114 +1,101 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:cba6f7&height=200&section=header&text=Ricardo%20-%20KuroBlack&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:0d0d0d,100:1a1a1a&height=220&section=header&text=RICARDO%20%C2%B7%20KUROBLACK&fontSize=42&fontColor=cba6f7&animation=fadeIn&fontAlignY=35&desc=Junior%20Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=55&descSize=16&descColor=ffffff)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&lines=Junior+Backend+Developer+%7C+Java+%26+Spring+Boot;Learning+something+new+every+day;Focused+on+MySQL+%2F+Oracle+%2F+APIs;Open+to+trainee+%2F+junior+opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=CBA6F7&background=00000000&center=true&vCenter=true&width=650&lines=Todo+en+negro%2C+incluso+el+c%C3%B3digo;Junior+Backend+Developer+%7C+Java+%26+Spring+Boot;Aprendiendo+algo+nuevo+cada+d%C3%ADa;Enfocado+en+MySQL+%2F+Oracle+%2F+APIs;Open+to+trainee+%2F+junior+opportunities" alt="Typing SVG" />
 
-![Open to work](https://img.shields.io/badge/Open%20to-Trainee%20%2F%20Junior%20Backend-success?style=for-the-badge)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKuroDarck&label=Visitors&countColor=%23cba6f7&style=flat)
+<br>
+
+![Open to work](https://img.shields.io/badge/OPEN%20TO-TRAINEE%20%2F%20JUNIOR%20BACKEND-000000?style=for-the-badge&labelColor=000000&color=cba6f7)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKuroDarck&label=VISITORS&countColor=%23cba6f7&style=for-the-badge&labelColor=000000)
 
 <p>
- <a href="https://www.linkedin.com/in/ricardo-herrera-mu%C3%B1oz-a685191b0/"><img src="./src/linkedin-teameasil.gif" alt="RHM | Linkedin" width="30px"/></a>
- <a href="https://twitter.com/Leyfon123"><img src="./src/twitter.gif" alt="RHM | Twitter" width="30px" /></a>
- <a href="https://www.facebook.com/blackjiackherrera/"><img src="./src/facebook.gif" alt="RHM | Facebook" width="30px"/></a>
- <a href="https://www.instagram.com/hetsurera/"><img src="./src/instagram.gif" alt="RHM | Instagram" width="30px" /></a>
- <a href="https://t.me/BlackKuro"><img src="./src/telegram.gif" alt="RHM | Telegram" width="30px" /></a>
- <a href="https://www.youtube.com/channel/UCRbp8rCB5sNhxgyBtHuFhrw"><img src="./src/youtube-logo.gif" alt="RHM | YouTube" width="30px" /></a>
+ <a href="https://www.linkedin.com/in/ricardo-herrera-mu%C3%B1oz-a685191b0/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=cba6f7" /></a>
+ <a href="https://t.me/BlackKuro"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=cba6f7" /></a>
+ <a href="https://twitter.com/Leyfon123"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=cba6f7" /></a>
 </p>
 
 </div>
 
 ---
 
-### 👤 About me
+### 👤 Sobre mí
 
-- 🔭 Currently focused on mastering **Java + Spring Boot** and **enterprise databases** (MySQL / Oracle)
-- 🎓 Studying Systems and Programming Engineering
-- 💡 Before jumping into Spring, I build projects with plain Java (JDBC) to make sure the fundamentals are solid before relying on frameworks
-- 🖥️ Also working with JavaFX and Java Web for desktop and web applications
-- 🌐 On the frontend I have a base in HTML5, CSS3 and Bootstrap/Tailwind — but my main focus is backend
-- 📈 Goal: become a solid Java backend developer, not a "generic full stack"
+```java
+public class Ricardo {
+    String alias = "KuroDarck";
+    String role  = "Junior Backend Developer";
+    String[] focus = {"Java", "Spring Boot", "MySQL", "Oracle"};
+    boolean openToWork = true;
+}
+```
+
+- 🔭 Actualmente enfocado en dominar **Java + Spring Boot** y **bases de datos empresariales** (MySQL / Oracle)
+- 🎓 Estudiando Ingeniería en Sistemas y Programación
+- 💡 Antes de saltar a Spring, construyo proyectos con Java puro (JDBC) para asegurar que los fundamentos estén sólidos
+- 🖥️ También trabajo con JavaFX y Java Web para aplicaciones de escritorio y web
+- 🌐 En frontend tengo base en HTML5, CSS3 y Bootstrap/Tailwind — pero mi enfoque principal es backend
+- 🎯 Meta: convertirme en un desarrollador backend Java sólido, no un "full stack genérico"
+- 🖤 Fuera del código: todo en negro, sin excepciones
 
 ---
 
-### 🛠️ Main Stack (Backend)
+### 🛠️ Stack Principal (Backend)
 
 <p align="center">
-<img src="https://img.shields.io/badge/Java-282C34?logo=Java&logoColor=F14C4D" alt="Java" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Spring-282C34?logo=spring&logoColor=6DB33F" alt="Spring" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Spring%20Boot-282C34?logo=springboot&logoColor=6DB33F" alt="Spring Boot" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/JavaFX-282C34?logo=java&logoColor=F14C4D" alt="JavaFX" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=F29111" alt="MySQL" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Oracle-282C34?logo=oracle&logoColor=F80000" alt="Oracle" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor=777BB3" alt="PHP" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/C++-282C34?logo=c%2B%2B&logoColor=5E97D0" alt="C++" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/C-282C34?logo=C&logoColor=61DAFB" alt="C" height="25" />
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=cba6f7" />
+<img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=cba6f7" />
+<img src="https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=cba6f7" />
+<img src="https://img.shields.io/badge/JavaFX-000000?style=for-the-badge&logo=java&logoColor=cba6f7" />
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=cba6f7" />
+<img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=cba6f7" />
+<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=PHP&logoColor=cba6f7" />
+<img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=cba6f7" />
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=cba6f7" />
 </p>
 
-### 🎨 Frontend (supporting skills)
+### 🎨 Frontend (habilidades de apoyo)
 
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Sass-282C34?logo=Sass&logoColor=F5517F" alt="Sass" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwindcss&logoColor=38B2AC" alt="Tailwind" height="25" />
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=cba6f7" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=cba6f7" />
+<img src="https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=Sass&logoColor=cba6f7" />
+<img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=cba6f7" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=cba6f7" />
 </p>
 
-### 🧰 Tools
+### 🧰 Herramientas
 
 <p align="center">
-<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="VS Code" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Windows-282C34?logo=Windows&logoColor=0078d4" alt="Windows" height="25" />
+<img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=cba6f7" />
+<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=cba6f7" />
+<img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=Windows&logoColor=cba6f7" />
 </p>
 
 ---
 
-### 📌 Featured Projects
+### 📌 Proyectos Destacados
 
-> _Add 2-3 projects here with link, screenshots, and stack used. Example:_
-
-- **Pharmacy Management System** — Java + JDBC + MySQL. Inventory, sales, and reporting management. _(in progress)_
-- **[Upcoming Spring Boot project]** — REST API with Spring Boot + MySQL, documented with Swagger.
+- **Pharmacy Management System** — Java + JDBC + MySQL. Gestión de inventario, ventas y reportes. _(en progreso)_ · [ver repo](https://github.com/KuroDarck)
+- **[Próximo proyecto Spring Boot]** — API REST con Spring Boot + MySQL, documentada con Swagger. _(próximamente)_
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KuroDarck&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuroDarck&layout=compact&langs_count=7&theme=radical&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KuroDarck&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&icon_color=cba6f7&title_color=cba6f7&text_color=ffffff&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuroDarck&layout=compact&langs_count=7&theme=dark&hide_border=true&bg_color=00000000&title_color=cba6f7&text_color=ffffff&cache_seconds=1800"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KuroDarck&theme=dark&hide_border=true&background=00000000&ring=cba6f7&fire=cba6f7&currStreakLabel=cba6f7" alt="GitHub Streak" />
 </div>
 
 ![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
 
----
-
-### 🏆 GitHub Profile Trophy
-
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KuroDarck&no-frame=true&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:cba6f7&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=soft&color=0:1a1a1a,50:0d0d0d,100:000000&height=100&section=footer)
 
 </div>
