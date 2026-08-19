@@ -84,18 +84,26 @@ public class Ricardo {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KuroDarck&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&icon_color=cba6f7&title_color=cba6f7&text_color=ffffff&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuroDarck&layout=compact&langs_count=7&theme=dark&hide_border=true&bg_color=00000000&title_color=cba6f7&text_color=ffffff&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KuroDarck&show_icons=true&theme=dark&hide_border=true&bg_color=000000&icon_color=cba6f7&title_color=cba6f7&text_color=ffffff&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuroDarck&layout=compact&langs_count=7&theme=dark&hide_border=true&bg_color=000000&title_color=cba6f7&text_color=ffffff&cache_seconds=1800"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KuroDarck&theme=dark&hide_border=true&background=00000000&ring=cba6f7&fire=cba6f7&currStreakLabel=cba6f7" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=KuroDarck&theme=dark&hide_border=true&background=000000&ring=cba6f7&fire=cba6f7&currStreakLabel=cba6f7" alt="GitHub Streak" />
 </div>
+
+<div align="center">
 
 ![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
 
+</div>
+
+---
+
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=soft&color=0:1a1a1a,50:0d0d0d,100:000000&height=100&section=footer)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=666666&background=00000000&center=true&vCenter=true&width=500&lines=%24+echo+%22Thanks+for+stopping+by%22;%24+status%3A+building+in+silence%2C+shipping+in+black" alt="Terminal footer" />
+
+![Footer](https://capsule-render.vercel.app/api?type=soft&color=0:1a1a1a,50:0d0d0d,100:000000&height=120&section=footer)
 
 </div>
