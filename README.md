@@ -83,6 +83,12 @@ public class Ricardo {
 
 ### 📊 GitHub Stats
 
+<p align="center">
+<img src="https://img.shields.io/github/followers/KuroDarck?label=FOLLOWERS&style=for-the-badge&color=cba6f7&labelColor=000000" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/KuroDarck&label=PUBLIC%20REPOS&query=public_repos&style=for-the-badge&color=cba6f7&labelColor=000000" />
+<img src="https://api.visitorbadge.io/api/count?path=https%3A%2F%2Fgithub.com%2FKuroDarck&style=for-the-badge&label=PROFILE+VIEWS&labelColor=000000&color=cba6f7" />
+</p>
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KuroDarck&show_icons=true&theme=dark&hide_border=true&bg_color=000000&icon_color=cba6f7&title_color=cba6f7&text_color=ffffff&include_all_commits=true&count_private=true&cache_seconds=1800"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuroDarck&layout=compact&langs_count=7&theme=dark&hide_border=true&bg_color=000000&title_color=cba6f7&text_color=ffffff&cache_seconds=1800"/>
@@ -91,6 +97,26 @@ public class Ricardo {
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=KuroDarck&theme=dark&hide_border=true&background=000000&ring=cba6f7&fire=cba6f7&currStreakLabel=cba6f7" alt="GitHub Streak" />
 </div>
+
+<sub>⚠️ If the cards above don't load, it's usually the shared free service being overloaded — not your account. The badges up top always work regardless.</sub>
+
+---
+
+### 🧭 Currently Learning
+
+<p align="center">
+<img src="https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=cba6f7&label=IN%20PROGRESS" />
+<img src="https://img.shields.io/badge/Oracle%20DB-000000?style=for-the-badge&logo=oracle&logoColor=cba6f7&label=IN%20PROGRESS" />
+<img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logo=fastapi&logoColor=cba6f7&label=IN%20PROGRESS" />
+<img src="https://img.shields.io/badge/Swagger-000000?style=for-the-badge&logo=swagger&logoColor=cba6f7&label=NEXT%20UP" />
+</p>
+
+```
+[■■■■■■□□□□] Java + JDBC        → solid
+[■■■■□□□□□□] Spring Boot        → in progress
+[■■■□□□□□□□] Oracle / Enterprise DB → in progress
+[■□□□□□□□□□] Swagger / API docs → next up
+```
 
 <div align="center">
 
