@@ -10,7 +10,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKuroDarck&label=VISITORS&countColor=%23cba6f7&style=for-the-badge&labelColor=000000)
 
 <p>
- <a href="https://www.linkedin.com/in/ricardo-herrera-mu%C3%B1oz-a685191b0/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=cba6f7" /></a>
+ <a href="https://www.linkedin.com/in/ricardo-herrera-mu%C3%B1oz-a685191b0/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=cba6f7&cacheSeconds=3600" /></a>
  <a href="https://t.me/BlackKuro"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=cba6f7" /></a>
  <a href="https://twitter.com/Leyfon123"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=cba6f7" /></a>
  <a href="https://www.instagram.com/richard_x_y"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=cba6f7" /></a>
@@ -44,7 +44,7 @@ public class Ricardo {
 ### 🛠️ Main Stack (Backend)
 
 <p align="center">
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=cba6f7" />
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=cba6f7" />
 <img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=cba6f7" />
 <img src="https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=cba6f7" />
 <img src="https://img.shields.io/badge/JavaFX-000000?style=for-the-badge&logo=java&logoColor=cba6f7" />
@@ -69,7 +69,7 @@ public class Ricardo {
 
 <p align="center">
 <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=cba6f7" />
-<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=cba6f7" />
+<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=cba6f7" />
 <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=Windows&logoColor=cba6f7" />
 </p>
 
