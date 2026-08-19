@@ -90,16 +90,26 @@ public class Ricardo {
 </p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KuroDarck&show_icons=true&theme=dark&hide_border=true&bg_color=000000&icon_color=cba6f7&title_color=cba6f7&text_color=ffffff&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuroDarck&layout=compact&langs_count=7&theme=dark&hide_border=true&bg_color=000000&title_color=cba6f7&text_color=ffffff&cache_seconds=1800"/>
+
+| | |
+|---|---|
+| 🌱 **Currently learning** | Spring Boot, Oracle, REST APIs |
+| 💬 **Ask me about** | Java, JDBC, MySQL, backend fundamentals |
+| 🎯 **2026 goal** | First junior / trainee backend role |
+| 📫 **Reach me** | LinkedIn or Telegram (links above) |
+| 🖤 **Fun fact** | Everything I own is black — my code editor included |
+
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=KuroDarck&theme=dark&hide_border=true&background=000000&ring=cba6f7&fire=cba6f7&currStreakLabel=cba6f7" alt="GitHub Streak" />
-</div>
-
-<sub>⚠️ If the cards above don't load, it's usually the shared free service being overloaded — not your account. The badges up top always work regardless.</sub>
-
+```
+Skill Radar
+Java          ██████████████████░░  90%
+SQL (MySQL)   ████████████████░░░░  80%
+JDBC          ███████████████░░░░░  75%
+Spring Boot   ████████░░░░░░░░░░░░  40%
+Oracle DB     ███████░░░░░░░░░░░░░  35%
+JavaFX        ████████████░░░░░░░░  60%
+```
 ---
 
 ### 🧭 Currently Learning
@@ -110,13 +120,6 @@ public class Ricardo {
 <img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logo=fastapi&logoColor=cba6f7&label=IN%20PROGRESS" />
 <img src="https://img.shields.io/badge/Swagger-000000?style=for-the-badge&logo=swagger&logoColor=cba6f7&label=NEXT%20UP" />
 </p>
-
-```
-[■■■■■■□□□□] Java + JDBC        → solid
-[■■■■□□□□□□] Spring Boot        → in progress
-[■■■□□□□□□□] Oracle / Enterprise DB → in progress
-[■□□□□□□□□□] Swagger / API docs → next up
-```
 
 <div align="center">
 
