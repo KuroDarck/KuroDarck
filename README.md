@@ -2,21 +2,19 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=egg&color=0:000000,50:0d0d0d,100:1a1a1a&height=250&section=header&text=RICARDO%20%C2%B7%20KUROBLACK&fontSize=42&fontColor=cba6f7&animation=scaleIn&fontAlignY=32&desc=Junior%20Backend%20Developer%20%7C%20Java%20%2B%20Spring%20Boot&descAlignY=52&descSize=16&descColor=ffffff)
 
+```
+        /\              /\
+       /  \____________/  \
+      /                    \
+     (        ●    ●        )
+      \_        △̮        _/
+        \______      ______/
+               \    /
+                \  /
+                 \/
+```
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=CBA6F7&background=00000000&center=true&vCenter=true&width=650&lines=Everything+in+black%2C+even+the+code;Junior+Backend+Developer+%7C+Java+%26+Spring+Boot;Learning+something+new+every+day;Focused+on+MySQL+%2F+Oracle+%2F+APIs;Open+to+trainee+%2F+junior+opportunities" alt="Typing SVG" />
-
-<br>
-
-```
-ricardo@kuroblack ~ % neofetch
--------------------------------------
-OS:        Ubuntu / Windows 11 (dual)
-Editor:    VS Code
-Languages: Java, SQL, PHP, C/C++
-Focus:     Backend · Spring Boot
-Shell:     bash
-Status:    open to trainee/junior roles
--------------------------------------
-```
 
 <br>
 
@@ -53,6 +51,18 @@ public class Ricardo {
 - 🐧 Comfortable working in Linux environments (Ubuntu and other distros), alongside Windows
 - 🎯 Goal: become a solid Java backend developer, not a "generic full stack"
 - 🖤 Off the keyboard: everything black, no exceptions
+
+```bash
+ricardo@kuroblack ~ % neofetch
+-------------------------------------
+OS:        Ubuntu / Windows 11 (dual)
+Editor:    VS Code
+Languages: Java, SQL, PHP, C/C++
+Focus:     Backend · Spring Boot
+Shell:     bash
+Status:    open to trainee/junior roles
+-------------------------------------
+```
 
 ---
 
