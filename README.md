@@ -92,7 +92,7 @@ Status:    open to trainee/junior roles
 
 ### 📌 Featured Projects
 
-- **Pharmacy Management System** — Java + JDBC + MySQL. Inventory, sales, and reporting management. _(in progress)_ · [view repo]([https://github.com/KuroDarck](https://github.com/KuroDarck/Pharmacy_System.git)
+- **Pharmacy Management System** — Java + JDBC + MySQL. Inventory, sales, and reporting management. _(in progress)_ · [view repo]([[https://github.com/KuroDarck](https://github.com/KuroDarck/Pharmacy_System.git)]
 - **[Upcoming Spring Boot project]** — REST API with Spring Boot + MySQL, documented with Swagger. _(coming soon)_
 
 ---
